@@ -1,0 +1,227 @@
+    1  exit
+    2  echo cd ~/ >> ~/.bashrc
+    3  exit
+    4  limaclt copy <~/Downloads/fastfetch.sh> default:</home/ubuntu/fastfetch.sh>
+    5  limaclt copy </Users/russell/Downloads/fastfetch.sh> default:</home/ubuntu/fastfetch.sh>
+    6  limaclt copy </Users/russell/Downloads/fastfetch.sh> default:</home/ubuntu>
+    7  exit
+    8  echo "I love Linux!"
+    9  echo "I love Linux!" > file.txt
+   10  cat file.txt
+   11  sudo nano file.txt
+   12  cat file.txt
+   13  less file.txt
+   14  less /usr/bin/reportbug
+   15  cd ~
+   16  less /usr/bin/reportbug
+   17  cd ~/
+   18  ls
+   19  cd Home
+   20  ls
+   21  cd /Home
+   22  cd /Home/default
+   23  pwd
+   24  cd /home/russell.guest
+   25  ls
+   26  pwd
+   27  cd ~
+   28  pwd
+   29  cd /
+   30  pwd
+   31  ls
+   32  cd /home
+   33  pwd
+   34  cd /russell.guest
+   35  cd /home
+   36  ls
+   37  cd /russell.guest
+   38  pw
+   39  pwd
+   40  cd ~/home
+   41  cd /home/russell.guest
+   42  pwd
+   43  exit
+   44  ls *.png
+   45  ls *.
+   46  *bin
+   47  ls #bin
+   48  ls *bin
+   49  cat *.
+   50  cat *boot
+   51  ls
+   52  cd *.txt
+   53  ls *.txt
+   54  exit
+   55  pwd
+   56  cd ..
+   57  pwd
+   58  cd ..
+   59  pwd
+   60  cd ..
+   61  ls
+   62  cd /home
+   63  ls
+   64  echo cd /home > home-files.txt
+   65  sudo echo cd /home > homefiles.txt
+   66  cd /russell.guest
+   67  cd /home/russell.guest
+   68  ls ~ > file02.txt
+   69  cat file02.txt
+   70  clear
+   71  exit
+   72  sudo apt upgrade
+   73  apt --list
+   74  apt -list
+   75  apt ls
+   76  apt l
+   77  apt -ls
+   78  apt
+   79  apt list
+   80  clear
+   81  ls
+   82  cat loveslinux.txt
+   83  nano loveselinux.txt
+   84  nano loveslinux.txt
+   85  clear
+   86  git init
+   87  ls
+   88  mkdir gitest
+   89  cd gitest
+   90  git init
+   91  touch file1.txt
+   92  touch file2.txt
+   93  nano file1.txt
+   94  nano file2.txt
+   95  git add file1.txt
+   96  git add file2.txt
+   97  git commit "myfirstcommit"
+   98  git commit "gitest"
+   99  git commit -m "firstcommit"
+  100  exit
+  101  ssh-keygen
+  102  cat /home/russell.guest/.ssh/id_ed25519.pub
+  103  ls
+  104  cd gitest
+  105  git remote add origin https://github.com/rmeziere04/rmeziere-software-saturdays.git
+  106  git push --set-upstream origin master
+  107  ls
+  108  git init gitest
+  109  russell@lima-default:~/gitest$ git remote add origin https://github.com/rmeziere04/rmeziere-software-saturdays.git
+  110  gitest$ git remote add origin https://github.com/rmeziere04/rmeziere-software-saturdays.git
+  111  git remote add origin https://github.com/rmeziere04/rmeziere-software-saturdays.git
+  112  gitest$: command not found
+  113  git push --set-ypstream origin master
+  114  git push --set-upstream origin master
+  115  git remote add origin git@github.com:rmeziere04/rmeziere-software-saturdays.git
+  116  git statuts
+  117  git status
+  118  git commit -m "first commit"
+  119  git config --global user.email "russell.meziere.jr@gmail.com"
+  120  git config --global user.name "rmeziere04"
+  121  git commit -m "first commit"
+  122  git remote add origin git commit -m "first commit"
+  123  git remote add origin git@github.com:rmeziere04/rmeziere-software-saturdays.git
+  124  git push --set-upstream origin master
+  125  cat ~/.ssh/id_ed25519.pub
+  126  git push --set-upstream origin master
+  127  clear
+  128  cd ./
+  129  ls
+  130  sudo rm gitest
+  131  sudo rm -r gitest
+  132  ls
+  133  clear
+  134  cd /home
+  135  ls
+  136  cd /russell.guest
+  137  cd surrsell.guest
+  138  cd /home/russell.guest
+  139  ls
+  140  cat loveslinux.txt
+  141  grep "a"
+  142  grep "a" lovelinux.txt
+  143  grep "a" loveslinux.txt
+  144  grep "e" loveslinux.txt
+  145  clear
+  146  cd gitest
+  147  man grep
+  148  ~/.ssh/id_ed25519
+  149  cat ~/.ssh/id_ed25519
+  150  ~/.ssh/id_ed25519.pub
+  151  cat ~/.ssh/id_ed25519.pub
+  152  git remote add origin git@github.com:rmeziere04/rmeziere-software-saturdays.git
+  153  git push -u origin main
+  154  /home/russell.guest
+  155  cd /home/russell.guest
+  156  cd rm -r gitest
+  157  rm -r gitest
+  158  echo "# rmeziere-software-saturdays" >> README.md
+  159  git init
+  160  git add README.md
+  161  git commit -m "first commit"
+  162  git branch -M main
+  163  git remote add origin git@github.com:rmeziere04/rmeziere-software-saturdays.git
+  164  git push -u origin main
+  165  cd repo
+  166  cd gitest
+  167  echo "# rmeziere-software-saturdays" >> README.md
+  168  git init
+  169  git add README.md
+  170  git commit -m "first commit"
+  171  git branch -M main
+  172  git remote add origin git@github.com:rmeziere04/rmeziere-software-saturdays.git
+  173  git push -u origin main
+  174  ls
+  175  clear
+  176  touch text1.txt
+  177  git commit -m "first commit"
+  178  git add text1.txt
+  179  git commit -m "first commit"
+  180  git
+  181  push
+  182  --set-upstream origin master
+  183  git push --set-upstream origin master
+  184  ls
+  185  git push --set-upstream origin master
+  186  git push
+  187  exit
+  188  ls
+  189  mkdir hw1
+  190  ls
+  191  cat
+  192  ls
+  193  clear
+  194  ls
+  195  sudo rm loveslinux.txt
+  196  sudo rm nanodemo.txt
+  197  clear
+  198  ls
+  199  touch commands.txt
+  200  ls
+  201  mv commands.txt hw1
+  202  ls
+  203  cd ~/hw1
+  204  git init
+  205  git add commands.txt
+  206  git commit -m "First Commit"
+  207  curl -O https://twomorecents.org/files/twocities.txt
+  208  ls
+  209  grep '“[^”]*”' twocities.txt
+  210  man grep
+  211  grep -P '“[^”]*”' twocities.txt
+  212  grep -oP '"[^"]*"' twocities.txt
+  213  grep -P '"[^"]*"' twocities.txt
+  214  grep -oP '"[^"]*"' twocities.txt > twocities_quotes.txt
+  215  man reg
+  216  grep -oP '\b\w+\.' twocities.txt
+  217  grep -oP '\b\w+\.' twocities.txt > twocities_sentence_endings.txt
+  218  grep -oP '\b\w{w}\.' twocities.txt
+  219  grep -oP '\b\w{5}\.' twocities.txt
+  220  grep -oP '\b\w{5}\.' twocities.txt > twocities_five_letters.txt
+  221  grep -oP '\b\w{17}\.'
+  222  grep -op '\b\w{17}' twocities.txt
+  223  grep -oP '\b\w{17}' twocities.txt
+  224  grep -P "CHAPTER" twocities.txt
+  225  grep -c 'CHAPTER' twocities.txt
+  226  grep -c 'CHAPTER.*[a-z]$' twocities.txt
+  227  history > commands.txt
